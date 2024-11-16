@@ -1,0 +1,10 @@
+{
+  "employeeDetails": [
+    {
+      "id": "780d",
+      "empName": "Mariya Joseph",
+      "email": "abc@gmail.com",
+      "empStatus": "active"
+    }
+  ]
+}
